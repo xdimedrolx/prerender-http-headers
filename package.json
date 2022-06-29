@@ -1,0 +1,29 @@
+{
+  "name": "prerender-http-headers",
+  "version": "1.0.0",
+  "description": "Prerender plugin that adds `httpHeaders` option for headers and forwards them to puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prerender": "~5.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xdimedrolx/prerender-http-headers"
+  },
+  "keywords": [
+    "prerender",
+    "header",
+    "plugin"
+  ],
+  "author": {
+    "name": "xdimedrolx"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdimedrolx/prerender-http-headers/issues"
+  },
+  "homepage": "https://github.com/xdimedrolx/prerender-http-headers"
+}
