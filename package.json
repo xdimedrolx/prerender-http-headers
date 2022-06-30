@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "is-plain-obj": "^4.1.0",
     "prerender": "~5.x"
   },
   "repository": {
