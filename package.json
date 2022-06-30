@@ -1,6 +1,6 @@
 {
   "name": "prerender-http-headers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prerender plugin that adds `httpHeaders` option for headers and forwards them to puppeteer",
   "main": "index.js",
   "scripts": {
